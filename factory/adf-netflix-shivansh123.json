@@ -1,0 +1,15 @@
+{
+	"name": "adf-netflix-shivansh123",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcdeb235-7321-47f9-b059-5cdb5dd54f19",
+		"tenantId": "91b2435e-9d98-4145-b589-82511fa78a03"
+	}
+}
